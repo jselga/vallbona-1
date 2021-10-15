@@ -6,8 +6,10 @@
 ## Exercici 3:
 ![Texto alternativo](/img/ex3/ex3.png)
 ## Exercici 4:
-
+![Texto alternativo](/img/ex4/ex4.png)
 ## Exercici 5:
+![Texto alternativo](/img/ex5/ex51.png)
+![Texto alternativo](/img/ex5/ex52.png)
 ## Exercici 6:
 ## Exercici 7:
 ## Exercici 8:
