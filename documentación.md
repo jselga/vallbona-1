@@ -20,8 +20,12 @@
 ![Texto alternativo](/img/ex8/ex81.png)!
 [Texto alternativo](/img/ex8/ex82.png)
 ## Exercici 9:
+[Texto alternativo](/img/ex9/ex9.png)
 ## Exercici 10:
+[Texto alternativo](/img/ex9/ex10.png)
 ## Exercici 11:
+[Texto alternativo](/img/ex9/ex11.png)
+
 ## Exercici 12:
 ## Exercici 13:
 ## Exercici 14:
