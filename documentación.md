@@ -25,8 +25,9 @@
 [Texto alternativo](/img/ex9/ex10.png)
 ## Exercici 11:
 [Texto alternativo](/img/ex9/ex11.png)
-
 ## Exercici 12:
+[Texto alternativo](/img/ex9/ex12.png)
+
 ## Exercici 13:
 ## Exercici 14:
 ## Exercici 15:
