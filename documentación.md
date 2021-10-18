@@ -28,13 +28,26 @@
 ## Exercici 12:
 [Texto alternativo](/img/ex9/ex12.png)
 ## Exercici 13:
+
 ## Exercici 14:
+
 ## Exercici 15:
+[Texto alternativo](/img/ex15/ex15.png)
+
 ## Exercici 16:
+[Texto alternativo](/img/ex16/ex16.png)
+
 ## Exercici 17:
+[Texto alternativo](/img/ex17/ex17.png)
 ## Exercici 18:
+[Texto alternativo](/img/ex18/ex18.png)
+### Compararia els arxius y si no consideixen faria un merge
 ## Exercici 19:
+[Texto alternativo](/img/ex19/ex191.png)
+
 ## Exercici 20:
+[Texto alternativo](/img/ex20/ex20.png)
+
 ## Exercici 21:
 
 
