@@ -23,11 +23,11 @@
 ## Exercici 9:
 [Texto alternativo](/img/ex9/ex9.png)
 ## Exercici 10:
-[Texto alternativo](/img/ex9/ex10.png)
+[Texto alternativo](/img/ex10/ex10.png)
 ## Exercici 11:
-[Texto alternativo](/img/ex9/ex11.png)
+[Texto alternativo](/img/ex11/ex11.png)
 ## Exercici 12:
-[Texto alternativo](/img/ex9/ex12.png)
+[Texto alternativo](/img/ex12/ex12.png)
 ## Exercici 13:
 
 ## Exercici 14:
@@ -47,7 +47,7 @@
 [Texto alternativo](/img/ex19/ex191.png)
 
 ## Exercici 20:
-[Texto alternativo](/img/ex20/ex20.png)
+[Texto alternativo](/img/ex20/20.png)
 
 ## Exercici 21:
 
